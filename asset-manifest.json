@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/lv-linker/static/css/main.d2e27f9b.chunk.css",
+    "main.js": "/lv-linker/static/js/main.c1a1e232.chunk.js",
+    "main.js.map": "/lv-linker/static/js/main.c1a1e232.chunk.js.map",
+    "runtime-main.js": "/lv-linker/static/js/runtime-main.eb49d0cc.js",
+    "runtime-main.js.map": "/lv-linker/static/js/runtime-main.eb49d0cc.js.map",
+    "static/css/2.1d694c59.chunk.css": "/lv-linker/static/css/2.1d694c59.chunk.css",
+    "static/js/2.37e39d6c.chunk.js": "/lv-linker/static/js/2.37e39d6c.chunk.js",
+    "static/js/2.37e39d6c.chunk.js.map": "/lv-linker/static/js/2.37e39d6c.chunk.js.map",
+    "static/js/3.309a74fd.chunk.js": "/lv-linker/static/js/3.309a74fd.chunk.js",
+    "static/js/3.309a74fd.chunk.js.map": "/lv-linker/static/js/3.309a74fd.chunk.js.map",
+    "index.html": "/lv-linker/index.html",
+    "static/css/2.1d694c59.chunk.css.map": "/lv-linker/static/css/2.1d694c59.chunk.css.map",
+    "static/css/main.d2e27f9b.chunk.css.map": "/lv-linker/static/css/main.d2e27f9b.chunk.css.map",
+    "static/js/2.37e39d6c.chunk.js.LICENSE.txt": "/lv-linker/static/js/2.37e39d6c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb49d0cc.js",
+    "static/css/2.1d694c59.chunk.css",
+    "static/js/2.37e39d6c.chunk.js",
+    "static/css/main.d2e27f9b.chunk.css",
+    "static/js/main.c1a1e232.chunk.js"
+  ]
+}
